@@ -1,7 +1,11 @@
-## GitHub Stats
+### Hello 👋,
 
+![](https://komarev.com/ghpvc/?username=your-github-pratik-adh&label=PROFILE+VIEWS)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=pratik-adh&show_icons=true&theme=dark" alt="pratik-adh" /> -->
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-adh&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pratik-adh&show_icons=true&theme=dark" alt="pratik-adh" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-adh"/>
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-adh&layout=compact&count_private=true&theme=dark" /> -->
 <!--
 **pratik-adh/pratik-adh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
