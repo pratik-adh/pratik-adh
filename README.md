@@ -10,7 +10,7 @@
 <!-- <div style={{flexDirection:"row",justifyContent:"space-between"}}> -->
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-adh&theme=dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik-adh&show_icons=true&theme=dark" alt="pratik-adh" width="400"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=pratik-adh&show_icons=true&theme=dark" alt="pratik-adh" width="400"/> -->
 </div>
 <!-- </div> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-adh"/> -->
